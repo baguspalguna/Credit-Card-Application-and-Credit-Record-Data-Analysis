@@ -5,6 +5,7 @@
 1. README_bahasa.md
 2. README_english.md
 3. notebook.ipynb
+4. Dashboard.png
 
 ## Problem Background
 1.  Mengetahui distribusi nasabah yang mengajukan CC berdasarkan sumber penghasilan, status pernikahan, usia, income debitur dan riwayat kredit (jika ada). Semuanya ini dikelompokkan berdasarkan jenis kelamin.
@@ -51,5 +52,6 @@ Python, Pandas, Numpy, datetime, scipy, matplotlib.pyplot, seaborn, scipy.stats
 
 ## Reference
 Dataset : https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv
+
 
 Dashboard  : https://public.tableau.com/views/CreditCard_17526778396820/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
