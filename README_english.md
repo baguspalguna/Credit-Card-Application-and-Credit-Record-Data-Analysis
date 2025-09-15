@@ -5,6 +5,7 @@
 1. README_bahasa.md
 2. README_english.md
 3. notebook.ipynb
+4. Dashboard.png
 
 ## Problem Background
 1.  Understanding the distribution of customers applying for credit cards based on income source, marital status, age, debtor income, and credit history (if any), grouped by gender.
@@ -49,5 +50,6 @@ Python, Pandas, Numpy, datetime, scipy, matplotlib.pyplot, seaborn, scipy.stats
 
 ## Reference
 Dataset : https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv
+
 
 Dashboard  : https://public.tableau.com/views/CreditCard_17526778396820/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
